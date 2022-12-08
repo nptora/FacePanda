@@ -1,0 +1,27 @@
+*{
+    font-family: "Meiryo,メイリオ";
+}
+
+html {
+    background-color: #1B0743;
+    background-size: cover;
+}
+
+
+.box {
+  width: 120px;
+  position: relative;
+}
+
+.table{
+  overflow: hidden;
+}
+
+.box img{
+  text-align: center;
+  width: 120%;
+  padding: 10px 0;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
